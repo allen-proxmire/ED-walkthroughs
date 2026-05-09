@@ -1,6 +1,6 @@
 # ED Walkthroughs
 
-Self-contained derivations from Event Density substrate primitives to foundational results in physics.
+Self-contained derivations from Event Density substrate primitives to foundational results in physics. Complete details for all thirteen primitives at https://github.com/allen-proxmire/ED-primitives.
 
 ---
 
