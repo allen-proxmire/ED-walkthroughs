@@ -38,7 +38,7 @@ Each walkthrough names what's forced, what's inherited, what's open, and what's 
 
 ---
 
-## The Thirteen Walkthroughs
+## The Walkthroughs
 
 ### Foundational Quantum Mechanics
 
@@ -80,7 +80,7 @@ Each walkthrough names what's forced, what's inherited, what's open, and what's 
 
 ## The Methodological Pattern
 
-Across these thirteen walkthroughs, a consistent methodological pattern emerges. The framework's substrate primitives produce structural content cleanly when the question is about classifications, dichotomies, structural form, or existence claims. The framework's primitives do not produce continuous numerical relationships between rule-types or quantitative resolutions of value-inherited competitions.
+Across these walkthroughs, a consistent methodological pattern emerges. The framework's substrate primitives produce structural content cleanly when the question is about classifications, dichotomies, structural form, or existence claims. The framework's primitives do not produce continuous numerical relationships between rule-types or quantitative resolutions of value-inherited competitions.
 
 This pattern is visible in the verdicts:
 
@@ -130,7 +130,7 @@ Both repositories are public and open for review.
 
 ## A Note on the Framework's Status
 
-Event Density is an open research framework. The thirteen walkthroughs document closed structural content — results that have been derived through substrate primitives and verified within the framework's existing technical apparatus. Open territories remain. Future walkthroughs may close the Hawking spectrum derivation (currently open in the BH arc), extend the NS analysis toward Path C+ quantitative resolution (requiring research-program-level work outside the canon), or consolidate the framework's gauge-theoretic content via the planned ED-QFT unified overview paper.
+Event Density is an open research framework. The walkthroughs document closed structural content — results that have been derived through substrate primitives and verified within the framework's existing technical apparatus. Open territories remain. Future walkthroughs may close the Hawking spectrum derivation (currently open in the BH arc), extend the NS analysis toward Path C+ quantitative resolution (requiring research-program-level work outside the canon), or consolidate the framework's gauge-theoretic content via the planned ED-QFT unified overview paper.
 
 The framework is not a finished theory. Whether the substrate commitments are correct is the load-bearing empirical question, and the walkthroughs document the framework's current structural reach without prejudice on that question. Each walkthrough's "what this argument establishes" section names the load-bearing question that each result depends on — discreteness, finite participation bandwidth, commitment irreversibility, the four-band bandwidth decomposition, the rule-type taxonomy, and so forth. The framework stands or falls on whether these are the correct foundational concepts.
 
