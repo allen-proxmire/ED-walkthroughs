@@ -38,46 +38,6 @@ Each walkthrough names what's forced, what's inherited, what's open, and what's 
 
 ---
 
-## The Walkthroughs
-
-### Foundational Quantum Mechanics
-
-**1. From Primitives to the Born Rule** — Derives the |Ψ|² probability rule from the participation measure structure. T14 Cauchy argument forcing √b · e^(iπ) form, U2 sesquilinear inner product, Gleason-Busch closure. The Born rule emerges as a definitional consequence of the participation measure's structure rather than as an independent postulate.
-
-**2. From Primitives to the Schrödinger Equation** — Stone's theorem applied twice (spatial and time translation), Galilean Lie algebra closure giving the kinetic-plus-potential form. The non-relativistic single-particle Schrödinger equation as forced consequence of substrate commitments.
-
-**3. From Primitives to the Bell-Tsirelson Bound** — Bipartite extension forcing tensor-product Hilbert space, Tsirelson's CHSH operator argument giving |S| ≤ 2√2. Explains why quantum nonlocality is bounded rather than maximal — a structural feature of the participation measure's algebra.
-
-**4. From Primitives to the Heisenberg Uncertainty Principle** — Canonical commutation [x̂, p̂] = iℏδ, Cauchy-Schwarz with symmetric/antisymmetric split giving Δx · Δp ≥ ℏ/2. The uncertainty relation as a substrate-level consequence of incompatible measurement structure.
-
-**5. From Primitives to the Arrow of Time** — P11 commitment irreversibility forces forward-only chain bandwidth and V1 forward-cone-only support at substrate level. The arrow of time emerges from primitive commitment dynamics rather than thermodynamic statistics. Refutation of symmetric/advanced V1.
-
-### Gravity and Astrophysics
-
-**6. From Primitives to Galactic Dynamics** — Combined gravity walkthrough: Newton's G = c³ℓ_P²/ℏ via cumulative-strain plus equipartition; MOND a_0 = c · H_0 / (2π) via dipole-mode projection of cosmic decoupling surface (matches empirical within ~10%); ECR cross-term Σ_cross(R) = √(GMa_0) · log(R/R_0); slope-4 BTFR v⁴ = G · M · a_0. Substrate-derived gravity from Newton through the Tully-Fisher relation.
-
-**7. From Primitives to Black Hole Architecture** — Single substrate condition |∇ρ| · ℓ_P² / ρ_local ≳ log(R_cg / ℓ_P) supporting six derivations: horizon formation, singularity dissolution, information versus entanglement, evaporation as participation re-routing, area-law entropy with the 1/4 coefficient inherited, wave-BH scattering. Allen's framing: BHs don't have paradoxes because BHs don't have smooth edges, because ED is discrete.
-
-### Relativistic Quantum Mechanics
-
-**8. From Primitives to the Klein-Gordon Equation** — Lorentz-covariant participation measure forces the d'Alembertian as the unique 2nd-order Lorentz-scalar operator. Mass-shell from plane-wave application giving E² = p²c² + m²c⁴. Minimal coupling D_μ = ∂_μ + (iq/ℏ)A_μ from local U(1) invariance. Conserved current with honest naming of j⁰ non-positive-definiteness pathology, resolved at the Dirac level.
-
-**9. From Primitives to the Dirac Equation and g = 2** — The showpiece relativistic-QM walkthrough. π_1(Q_2) = ℤ_2 from configuration-space topology in 3+1D, exchange-class generator equals 2π-rotation generator, SL(2,ℂ) double cover, Cl(3,1) anticommutation forced by uniqueness argument, σ^μν = (i/2)[γ^μ, γ^ν] generating SL(2,ℂ), D(R(2π)) = −𝟙 automatic from half-angle factor, square-root factorization giving Dirac equation, conserved current Ψ̄γ^μΨ with positive-definite density resolving KG pathology, non-relativistic reduction giving Pauli equation with Zeeman coefficient (qℏ/2m) corresponding to g = 2 exactly. The factor of 2 in g = 2 traced structurally back through Cl(3,1) to substrate primitives plus 3+1D.
-
-### Mass and Statistics
-
-**10. From Primitives to Mass — Form Forced, Values Inherited** — Arc M closure walkthrough. Three theorems: M1 (σ_τ form forced from six selection criteria, log-derivative gives amplitude-invariance), M2 (massless Case-P gauge slot existence forced via GRH plus Arc Q back-flow), M3 (six ratio mechanisms systematically refuted with empirical disconfirmations including 3500× same-spin charged-lepton mass spread). H1-dominant verdict: the framework fixes the structure of mass, not its values. The cleanest expression of the framework's form-forced / value-inherited methodology.
-
-**11. From Primitives to the Spin-Statistics Theorem** — The deepest individual result in physics derived from substrate primitives plus 3+1D spatial topology plus Cl(3,1) algebraic uniqueness, without quantum field theory. Configuration-space topology π_1(Q_2) = ℤ_2 forcing η ∈ {+1, −1}, geometric theorem identifying exchange-class generator with 2π-rotation generator, Cl(3,1) frame realizing the rotational double cover with D(R(2π)) = −𝟙 automatic, minimal-bilinear pairing closure tying the abstract topology to spinor representation theory. Two ℤ_2 dichotomies close into a single forced equality η = (−1)^(2s).
-
-### Clay-Prize-Relevance Territory
-
-**12. From Primitives to Navier-Stokes Smoothness** — The framework's structural-decompositional contribution to the Clay-NS smoothness problem. Two concordant derivation routes producing standard Newtonian-fluid NS form. R1 mechanism — form-forced substrate-cutoff stabilization −κμ_V1 ℓ_P² ∇⁴v_i arising from V1's finite-width vacuum kernel — gives strictly monotone gradient-norm Lyapunov decay in counterfactual ED-only NS, hence global smoothness via standard parabolic-regularity theory. Advection's vortex-stretching term ∫ω · Sω dV is the unique indefinite-sign contribution to dL/dt in full 3D NS. Three-angle convergence (architectural, dynamical, spectral) on advection-as-non-ED. Intermediate Path C verdict: explains why 2D NS is globally smooth and why 3D NS smoothness is structurally hard, without resolving which side wins quantitatively.
-
-**13. From Primitives to Yang-Mills Existence and Mass Gap** — The framework's structural-decompositional contribution to the Clay-YM problem. Substrate-to-continuum derivation of D_μ F^μν = J^ν via DCGT-style multi-scale expansion of non-Abelian gauge-field correlators plus T17 generalized minimal coupling plus rule-type bracket structure. Substrate mass-gap mechanism via V1 second-moment expansion (YM analogue of R1) plus non-Abelian quartic stabilization. Architectural classification with four canonical-ED channels and zero transport-kinematic obstruction class — structurally cleaner than NS or MHD. OS-positivity audit channel-by-channel under four-element preservation locus. Parallel Intermediate Path C verdict to NS smoothness. Gauge-fixing obstruction reframed (not solved) by T17 substrate-level gauge-quotient identification.
-
----
-
 ## The Methodological Pattern
 
 Across these walkthroughs, a consistent methodological pattern emerges. The framework's substrate primitives produce structural content cleanly when the question is about classifications, dichotomies, structural form, or existence claims. The framework's primitives do not produce continuous numerical relationships between rule-types or quantitative resolutions of value-inherited competitions.
