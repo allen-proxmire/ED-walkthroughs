@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1219975925.svg)](https://doi.org/10.5281/zenodo.19742483)
+
 # ED Walkthroughs
 
 Self-contained derivations from Event Density substrate primitives to foundational results in physics. Complete details for all thirteen primitives at https://github.com/allen-proxmire/ED-primitives.
